@@ -22,26 +22,54 @@
 
 ---
 
-# 🚀 About Me
+# 👨‍🚀 About Me
+
+<table>
+
+<tr>
+
+<td width="58%">
 
 ```bash
 $ whoami
 
-👤 Name       : Pilli SriramMohan
+👤 Name:
+Pilli SriramMohan
 
-💻 Role       : Full Stack Developer
+💻 Role:
+Full Stack Developer
 
-🌍 Country    : India
+🏢 Currently:
+Building Enterprise CRM Systems
 
-🚀 Currently  : Building Enterprise CRM Systems
+🚀 Tech:
+Next.js
+NestJS
+Prisma
+PostgreSQL
 
-🧠 Learning   : AI, LLMs & SaaS
+⚡ Passion:
+Scalable Web Apps
 
-🎯 Goal       : Full Stack Architect
+🤖 Learning:
+Artificial Intelligence
+
+🎯 Mission:
+Become a Full Stack Architect
+
 ```
 
----
+</td>
 
+<td>
+
+<img width="320" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif"/>
+
+</td>
+
+</tr>
+
+</table>
 ## ⚡ Current Tech Stack
 
 <p align="center">
