@@ -1,22 +1,30 @@
-name: Generate Snake
+name: Generate Contribution Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    # Runs at 12:00 AM every day
+    - cron: "0 0 * * *"
   workflow_dispatch:
+  push:
+    branches:
+      - main
 
 jobs:
-  snake:
+  build:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk@master
+      - uses: actions/checkout@v3
+
+      - name: Generate Cyberpunk Snake
+        uses: Platane/snk@v3
         with:
           github_user_name: Srirammohan03
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#00F5FF&color_dots=#020617,#0F172A,#1E293B,#7F5AF0,#00F5FF
+            dist/ocean.gif?color_snake=#00F5FF&color_dots=#020617,#0F172A,#1E293B,#7F5AF0,#00F5FF
 
-      - name: Deploy Snake Animation
+      - name: Push to Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output

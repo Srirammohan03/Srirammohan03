@@ -1,0 +1,25 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <g transform="translate(10, 10)">
+    <!-- Visor -->
+    <rect x="70" y="50" width="60" height="40" rx="20" fill="#00F5FF" filter="url(#glow)" opacity="0.9"/>
+    <!-- Helmet -->
+    <path d="M60 50 C60 30, 140 30, 140 50 V90 C140 110, 60 110, 60 90 Z" fill="none" stroke="#F8FAFC" stroke-width="4"/>
+    <!-- Body -->
+    <path d="M70 105 L130 105 L145 180 L55 180 Z" fill="none" stroke="#F8FAFC" stroke-width="4"/>
+    <!-- Arms -->
+    <path d="M55 110 Q30 130 45 160" fill="none" stroke="#7F5AF0" stroke-width="4" stroke-linecap="round"/>
+    <path d="M145 110 Q170 130 155 160" fill="none" stroke="#7F5AF0" stroke-width="4" stroke-linecap="round"/>
+    <!-- Tech details -->
+    <circle cx="100" cy="130" r="10" fill="#00F5FF" filter="url(#glow)"/>
+    <rect x="80" y="150" width="40" height="8" rx="4" fill="#0F172A" stroke="#7F5AF0" stroke-width="2"/>
+  </g>
+</svg>

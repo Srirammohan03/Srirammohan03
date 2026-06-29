@@ -1,0 +1,11 @@
+<svg width="600" height="200" viewBox="0 0 600 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Network connecting nodes -->
+  <path d="M100 100 L300 100 L500 100 M300 100 L300 50 M300 100 L300 150" stroke="#1E293B" stroke-width="4"/>
+  <circle cx="100" cy="100" r="40" fill="#0F172A" stroke="#00F5FF" stroke-width="3"/>
+  <circle cx="300" cy="100" r="50" fill="#020617" stroke="#7F5AF0" stroke-width="4"/>
+  <circle cx="500" cy="100" r="40" fill="#0F172A" stroke="#00F5FF" stroke-width="3"/>
+  
+  <text x="100" y="105" font-family="'Orbitron'" font-size="14" fill="#00F5FF" text-anchor="middle">FRONTEND</text>
+  <text x="300" y="105" font-family="'Orbitron'" font-size="18" fill="#7F5AF0" text-anchor="middle">CORE</text>
+  <text x="500" y="105" font-family="'Orbitron'" font-size="14" fill="#00F5FF" text-anchor="middle">BACKEND</text>
+</svg>

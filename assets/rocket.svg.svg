@@ -1,0 +1,19 @@
+<svg width="150" height="150" viewBox="0 0 150 150" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="rocket-flame" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#00F5FF" />
+      <stop offset="100%" stop-color="#7F5AF0" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g transform="rotate(45 75 75)">
+    <!-- Flame -->
+    <path d="M65 110 Q75 160 85 110 Z" fill="url(#rocket-flame)"/>
+    <!-- Body -->
+    <path d="M75 20 Q95 50 95 90 L55 90 Q55 50 75 20 Z" fill="#0F172A" stroke="#00F5FF" stroke-width="3"/>
+    <!-- Window -->
+    <circle cx="75" cy="65" r="8" fill="#020617" stroke="#7F5AF0" stroke-width="2"/>
+    <!-- Fins -->
+    <path d="M55 90 L40 110 L55 100 Z" fill="#7F5AF0"/>
+    <path d="M95 90 L110 110 L95 100 Z" fill="#7F5AF0"/>
+  </g>
+</svg>

@@ -1,0 +1,8 @@
+<svg width="400" height="200" viewBox="0 0 400 200" xmlns="http://www.w3.org/2000/svg">
+  <rect x="2" y="2" width="396" height="196" rx="12" fill="#0F172A" stroke="#1E293B" stroke-width="2"/>
+  <rect x="2" y="2" width="10" height="196" fill="#00F5FF" rx="4"/>
+  <text x="30" y="40" font-family="'Orbitron', sans-serif" font-size="22" font-weight="bold" fill="#F8FAFC">SYSTEM_CORE</text>
+  <text x="30" y="70" font-family="'Space Grotesk', sans-serif" font-size="14" fill="#94A3B8">Advanced Architecture Protocol</text>
+  <rect x="30" y="150" width="80" height="24" rx="12" fill="#7F5AF0" opacity="0.2"/>
+  <text x="70" y="166" font-family="'JetBrains Mono', monospace" font-size="12" fill="#7F5AF0" text-anchor="middle">NEXT.JS</text>
+</svg>
