@@ -1,39 +1,53 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00F5FF,50:0077FF,100:001F54&text=Pilli%20SriramMohan&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descAlign=50"/>
-
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=👋+Welcome+to+my+Digital+Workspace;⚡+Next.js+App+Router+%7C+TypeScript;🚀+Building+Enterprise+CRM+Systems;🧠+Exploring+AI+Development+%26+SaaS;🎨+TailwindCSS+%7C+Framer+Motion+%7C+React;📈+Always+Learning+Something+New"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:00F5FF,30:0099FF,70:7F5AF0,100:3B0764&text=Pilli%20SriramMohan&fontColor=ffffff&fontSize=56&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20Next.js%20•%20NestJS%20•%20AI%20Enthusiast&descAlignY=58&animation=fadeIn"/>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Srirammohan03&label=PROFILE+VIEWS&color=00f5ff&style=for-the-badge"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=3000&pause=1200&color=00F5FF&center=true&vCenter=true&width=900&lines=👋+Welcome+to+my+GitHub;💻+Full+Stack+Developer;⚡+Building+Enterprise+CRM+Systems;🚀+Next.js+%7C+NestJS+%7C+Prisma;🤖+Exploring+AI+Applications;🎯+Future+Full+Stack+Architect"/>
+
+<br/><br/>
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="520"/>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Srirammohan03&label=PROFILE+VIEWS&color=00F5FF&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/Srirammohan03?style=for-the-badge&color=00F5FF"/>
+
+<img src="https://img.shields.io/github/stars/Srirammohan03?style=for-the-badge&color=7F5AF0"/>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212744275-2d7d29e5-98d4-4d69-94e3-f7d0c6b4f1ff.gif">
+---
 
-<div align="center">
+# 🚀 About Me
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien" width="35" height="35" /> System Info
+```bash
+$ whoami
 
-</div>
+👤 Name       : Pilli SriramMohan
 
-```yaml
-❯ whoami
-Name: Pilli SriramMohan
-Role: Full Stack Developer
-Hardware: Dell Inspiron 5509
+💻 Role       : Full Stack Developer
 
-❯ stack --current
-Frontend: [Next.js, React, TypeScript, TailwindCSS, Framer Motion]
-Backend:  [NestJS, Node.js, PostgreSQL, Prisma, Axios]
+🌍 Country    : India
 
-❯ core_focus
-- Enterprise CRM Systems & Admin Dashboards
-- Fintech Solutions & SaaS Applications
-- AI Tool Integration
+🚀 Currently  : Building Enterprise CRM Systems
 
-❯ mission
-To architect scalable, high-performance web applications and transition into a Full Stack Architect role.
+🧠 Learning   : AI, LLMs & SaaS
+
+🎯 Goal       : Full Stack Architect
+```
+
+---
+
+## ⚡ Current Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,nodejs,nestjs,prisma,postgres,docker,git,github,vscode,figma"/>
+
+</p>
+
+---
