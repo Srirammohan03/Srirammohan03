@@ -8,8 +8,8 @@
 
 <br/><br/>
 
-[<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="520"/>
-](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTVuZHB4a2NpOHR6MzVqOHZld2l3ZGxmeHdlaDYwejhpeXJzbWtzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bJ4TVNYNUympPgcpem/giphy.gif)
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTVuZHB4a2NpOHR6MzVqOHZld2l3ZGxmeHdlaDYwejhpeXJzbWtzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bJ4TVNYNUympPgcpem/giphy.gif" width="520"/>
+
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=Srirammohan03&label=PROFILE+VIEWS&color=00F5FF&style=for-the-badge"/>
