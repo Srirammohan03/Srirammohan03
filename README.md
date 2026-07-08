@@ -2,13 +2,8 @@
 <div align="center">
 
 <!-- HERO SECTION -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-bg.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/hero-bg.svg">
-  <img alt="Hero Background" src="assets/hero-bg.svg" width="100%">
-</picture>
 
-<img src="assets/logo.svg" alt="Pilli SriramMohan Logo" width="140" style="margin-top: -60px; position: relative; z-index: 10;">
+
 
 # <span style="color:#00F5FF;">Hi, I'm Pilli SriramMohan</span> <img src="https://media.giphy.com/media/hvRJCLFzcasr14yMy2/giphy.gif" width="30px">
 
